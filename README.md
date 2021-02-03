@@ -11,7 +11,7 @@ The goal is to make it easy to:
 
 ## Sample Notebooks
 
-A few sample notebooks inspired from Colin Kennedy's excellennt [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook):
+A few sample notebooks inspired from Colin Kennedy's excellent [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook):
 
 |Notebook|Google Colab link|
 |---|---|
